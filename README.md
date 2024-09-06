@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Description 
+Description 
 Housing made easy for Bruins.
 We understand the struggles Bruins face when hunting for off-campus apartments as it is difficult to navigate through countless listings, comparing prices, locations, and amenities. But worry no more! BruinRent is designed exclusively for UCLA students, with the aim of simplifying your apartment search journey.
 
