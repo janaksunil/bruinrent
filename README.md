@@ -8,7 +8,6 @@ We understand the struggles Bruins face when hunting for off-campus apartments. 
 
 - **Firebase**: Authentication and database management
 - **React**: Frontend
-- **Node.js**: Backend
 
 ## Features
 
